@@ -73,6 +73,7 @@ space-portfolio/
   |- package-lock.json
   |- package.json
   |- postcss.config.js
+  |- remove_bg.py
   |- tailwind.config.ts
   |- tsconfig.json
 ```
